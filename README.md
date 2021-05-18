@@ -1,2 +1,2 @@
 # rockpaperscissors
-Image Classifier for playing rock paper scissors. (assignment from dicoding)
+Image Classifier for playing rock paper scissors.
